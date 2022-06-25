@@ -1,0 +1,19 @@
+{
+"symbol": "VXT",
+"address": "0xd7A5456a6fd8ce64A8eCf5eA8D1976EB03fD47B6",
+"overview": {
+  "en": "Stake and earn a profit share from Voxto trading!"
+},
+"email": "hello@voxto.io",
+"website": "https://voxto.io/",
+"whitepaper": "https://voxto.io/assets/voxto-whitepaper.pdf",
+"state": "NORMAL",
+  "links": {
+    "blog": "https://medium.com/@voxto_amplify",
+    "twitter": "https://twitter.com/voxto_amplify",
+    "telegram": "https://t.me/voxto",
+    "github": "https://github.com/voxto",
+    "facebook": "https://www.facebook.com/voxto.amplify",
+    "medium": "https://medium.com/@voxto_amplify"
+  }
+}
